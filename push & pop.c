@@ -20,7 +20,9 @@ void push(int n) {
      tmp=(vertice*)malloc(sizeof(vertice));
      tmp->key=n;
      
-     if (coda_top) {
+    /*
+    Enter the 1st element
+    */if (coda_top) {
 	 printf("\nprimo elemento : %d", n);
          coda_end->next=tmp;
          coda_end=tmp;
