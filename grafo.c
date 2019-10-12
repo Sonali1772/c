@@ -1,7 +1,10 @@
 /*Grafi rappresentati mediante liste di adiacenza
-Scrivere un programma in C che implementi la struttura dati grafo mediante le liste di adiacenza. Si richiede che
-ï	l'input sia costituito dal numero dei vertici e per ciascun vertice siano assegnati i vertici adiacenti:
-ï	si possa visitare il grafo in profondit‡ ed in ampiezza.
+ENG:[Learn to pronounce Graphs represented by adjacency lists]
+Scrivere un programma in C che implementi la struttura dati grafo mediante le liste di adiacenza.
+ENG:[Write a C program that implements the graph data structure using adjacency lists.]
+Si richiede che
+‚Ä¢	l'input sia costituito dal numero dei vertici e per ciascun vertice siano assegnati i vertici adiacenti:
+‚Ä¢	si possa visitare il grafo in profondit√† ed in ampiezza.
 */
 
 #include <stdio.h>
